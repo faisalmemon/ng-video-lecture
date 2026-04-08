@@ -1,0 +1,41 @@
+ubuntu@d25352d9240e:/workspace/ng-video-lecture$ python fbigram.py
+step 0: train loss 4.2849, val loss 4.2823
+step 300: train loss 2.3219, val loss 2.3526
+step 600: train loss 1.8872, val loss 1.9993
+step 900: train loss 1.6499, val loss 1.8088
+step 1200: train loss 1.5155, val loss 1.7041
+step 1500: train loss 1.4376, val loss 1.6411
+step 1800: train loss 1.3720, val loss 1.5842
+step 2100: train loss 1.3275, val loss 1.5639
+step 2400: train loss 1.2897, val loss 1.5403
+step 2700: train loss 1.2551, val loss 1.5149
+step 3000: train loss 1.2266, val loss 1.5009
+step 3300: train loss 1.2010, val loss 1.4918
+step 3600: train loss 1.1795, val loss 1.4893
+step 3900: train loss 1.1533, val loss 1.4784
+step 4200: train loss 1.1306, val loss 1.4773
+step 4500: train loss 1.1062, val loss 1.4808
+step 4800: train loss 1.0889, val loss 1.4902
+
+LARENCE:
+The fell, the flow's then accupation
+Like thou retor
+Have full'd upon's death fool!
+
+HASTINGS:
+'Tis revost methinks, my lord,
+Unleader peace to beach the bloody,
+Green and coffer his end. If so, love have,
+Of this country's death, strange
+Ne'er nor hember, by life, we'll intent you.
+Come, pray, and both at exchange us.
+Speach, we fight, consure.
+O perful,
+The one to permity, which cour to damns!
+
+LADY ANNE:
+These soves honours and valiant deposed
+I not: loathed, I'll have you.
+
+Lords:
+T
