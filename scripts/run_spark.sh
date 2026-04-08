@@ -1,7 +1,7 @@
 #!/bin/bash
 # run_spark.sh
 
-docker run --gpus all -it --rm \
+docker run --gpus all --runtime=nvidia -it --rm \
   --user $(id -u):$(id -g) \
   -v /home/faisalm/dev:/workspace \
   -w /workspace/ng-video-lecture \
